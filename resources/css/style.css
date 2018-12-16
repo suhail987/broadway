@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  font-family: helvetica;
+}
+h1{
+  font-weight: bold;
+  color: white;
+  font-size: 70px;
+
+}
+.navigation{
+  font-size: 18px;
+  color: white;
+}
+.fz32{
+  font-size: 32px;
+}
+.same{
+  font-weight: bold;
+}
+.fz23{
+  font-size: 23px;
+}
+h4{
+  font-weight: bold;
+  color: white;
+  font-size: 23px;
+
+}
+.explain{
+  font-size: 14px;
+}
+.ftpass{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+#needbg{
+  background-image: image(/images/the-flatiron-building.png);
+}
